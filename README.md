@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FreshTeaTime
 - 👀 I’m interested in everything new.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on first step development. 
 - 📫 How to reach me GitHub. 
 
